@@ -1,0 +1,53 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box; }
+
+// .row {--bs-gutter-x: 0rem;}
+
+    header{ 
+        li{
+            .nav-link{color: rgb(233, 123, 123); font-family: 'Oswald', sans-serif;
+                
+            }
+        }
+    }
+    .nav-item .alfonsoGrisolia {
+        font-family: 'Oswald', sans-serif;
+        
+    }
+
+    h1 {display: flex;
+        justify-content: center;
+        font-family: 'Noto Sans JP', sans-serif; 
+        font-size: 15px; 
+        color: rgb(233, 123, 123);
+        margin-top: 12px;}
+
+
+        p{
+            display: flex;
+            justify-content: center;
+            color: antiquewhite;
+            margin-left: 25px;
+            font-family: 'Roboto Condensed', sans-serif;
+        }
+
+
+        h2{
+            display: flex;
+            justify-content: center;
+            font-family: 'Oswald', sans-serif;
+            color: rgb(233, 123, 123);
+            font-size: 30px;
+        }
+
+body {
+    background-color: rgb(13, 13, 13);
+}
+
+
+
+@media only screen and (max-width: 760px){
+    
+} 
