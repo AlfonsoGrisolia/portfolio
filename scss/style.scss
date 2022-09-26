@@ -22,7 +22,7 @@
         font-family: 'Noto Sans JP', sans-serif; 
         font-size: 15px; 
         color: rgb(233, 123, 123);
-        margin-top: 25px;
+        margin-top: 15px;
         margin-bottom: 50px;}
 
 
@@ -42,11 +42,13 @@
             font-family: 'Oswald', sans-serif;
             color: rgb(233, 123, 123);
             font-size: 30px;
+            
         }
 
 body {
     background-color: rgb(13, 13, 13);
 }
+
 
 section{
     height: 1200px;
@@ -64,6 +66,13 @@ section{
     font-family: 'Oswald', sans-serif;
 }
 img {width: 400px; border: 1px solid antiquewhite;}
+
+a:hover{
+    color: rgb(32, 32, 32);
+}
+.nav-link:hover{
+    color: antiquewhite; 
+}
 
 
 @media only screen and (max-width: 760px){

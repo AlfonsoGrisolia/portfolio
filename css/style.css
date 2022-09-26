@@ -16,7 +16,7 @@ h1 {
   font-family: 'Noto Sans JP', sans-serif;
   font-size: 15px;
   color: #e97b7b;
-  margin-top: 25px;
+  margin-top: 15px;
   margin-bottom: 50px; }
 
 p {
@@ -55,3 +55,9 @@ section {
 img {
   width: 400px;
   border: 1px solid antiquewhite; }
+
+a:hover {
+  color: #202020; }
+
+.nav-link:hover {
+  color: antiquewhite; }
